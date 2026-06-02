@@ -1,0 +1,24 @@
+string Function
+len() - to find the number of characters
+
+Slicing: to get a substring
+
+split()-gives a ,(coma) seperated list, it is used to get each words in the sentence
+
+lower() - Converts a string into lower case
+
+upper() - Converts a string into upper case
+
+strip() - Returns a trimmed version of the string
+
+title() - Converts the first character of each word to upper case
+
+find() - Searches the string for a specified value and returns the position of where it was found
+
+count() - Returns the number of times a specified value occurs in a string
+
+capitalize() - To make the first word capital
+
+index() - Searches the string for a specified value and returns the position of where it was found
+
+center() - Returns a centered string
