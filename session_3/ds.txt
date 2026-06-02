@@ -1,0 +1,18 @@
+	Data Science : AI +ML + DL + maths &  statistics + visualisation + EDA
+	• Data Analytics: Work with the existing data
+	• Data Science: predict the new data
+	• Data Engineering: Build and maintain data
+	• Applications of Data Science: 
+        1.Travel
+        2.Health Care
+        3.Sales
+        4.Social Media
+        5.Marketing
+
+
+
+	• EDA: Exploratory Data Analysis
+	• ML: give the computers ability to learn without explicitly programmed.
+	• Exabytes: 1000 PB
+	
+

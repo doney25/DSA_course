@@ -1,0 +1,16 @@
+	• Ctrl+/ : All shortcuts
+	• Alt+F4 : Close a window
+	• Alt+Esc : Minimize a window
+	• Ctrl+Shift+Esc : Task Manager
+	• Alt+Ctrl+Dlt : When stuck
+	• Alt+Tab: Switch tab
+	• Win+R : Run dailogue
+	• Cmd : Terminal
+	• Ctrl+Arrow keys : Select sentence letter by letter
+	• Ctrl+Shift+Arrow keys : Select sentence by words
+	• Ctrl+Shift+J : Justification in Google Docs
+	• Ctrl+Shift+U : Center in Google Docs
+	• Ctrl+Shift+. : Increase font size
+	• Ctrl+Shift+, : decrease font size
+	• Ctrl+Enter : New page in Doc
+	• Win + Ctrl + O : On-screen keyboard
