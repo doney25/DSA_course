@@ -1,0 +1,4 @@
+Tuple
+Unmutable
+To edit a tuple, first change it into a list.
+Use '+' to concatinate 2 tuples.
