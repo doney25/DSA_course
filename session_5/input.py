@@ -1,0 +1,6 @@
+name=input("Please add your name: ")
+beverage_type=input("What do you want Tea/Coffee: ")
+sugar=input("Do you prefer without sugar: ")
+beverage_quantity=int(input("How many cups: "))
+print(f"Fetching {beverage_quantity} cups of {beverage_type} for {name}")
+type(beverage_quantity)
