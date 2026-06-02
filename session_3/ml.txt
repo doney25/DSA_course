@@ -1,0 +1,16 @@
+# ML Quick Summary
+
+## 1. Core Concept
+- Traditional: Data + Code -> Answers
+- ML: Data + Answers -> Rules (Model)
+
+## 2. Core Terms
+- Feature (X): Input variables/predictors.
+- Target (Y): The output/label to predict.
+- Training: Letting the algorithm find patterns.
+- Testing: Checking model accuracy on new data.
+
+## 3. Main Types
+- Supervised: Learning with labeled data (Regression/Classification).
+- Unsupervised: Finding patterns in unlabeled data (Clustering).
+- Reinforcement: Learning via rewards and penalties (Trial & Error).
