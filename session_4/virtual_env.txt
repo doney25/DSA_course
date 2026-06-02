@@ -1,0 +1,9 @@
+	• Use snake case
+	• Virtual Environment: venv
+	• To create Virtual environment : python -m venv venv
+	
+Functions:
+	• Open Source
+	• Standard Libraries
+	• Platform Independent
+	• powerful
